@@ -1,0 +1,19 @@
+.Navbar {
+
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  
+
+  @media only screen and (max-width: 696px){
+.image{
+  width: 50%;
+}
+
+.menu {
+  width: 30%;
+}
+    }
+    
+    
+

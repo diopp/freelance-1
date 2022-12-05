@@ -1,0 +1,261 @@
+.greyRow {
+    background-color: #f8f8f8dc;
+}
+
+.singleRow {
+    display: inline-block;
+    width: 100%;
+   
+    padding: 30px 0px;
+}
+
+
+.wrap {
+    margin: 0px auto;
+}
+
+.wrap {
+    max-width: 1200px;
+    
+    padding: 0px 20px;
+}
+
+.contentRow, .listRow {
+    float: left;
+    width: 100%;
+    padding-top: 40px;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+div {
+    display: block;
+}
+
+.singleRow.greyRow .contentIcons.twoCol {
+    justify-content: center;
+}
+
+.twoCol li {
+    width: calc(45% - 30px);
+    margin: 0px 60px 0px 0px;
+}
+
+.contentIcons li, .contentText li, .recogLogo li {
+    float: left;
+    list-style: none;
+    padding-bottom: 40px;
+}
+
+p, li, span, a {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.singleRow.greyRow .contentIcons.twoCol div.iconWrap {
+    min-height: 70px;
+}
+
+.iconWrap {
+    width: 70px;
+    float: left;
+    margin-right: 20px;
+
+
+
+}
+
+
+.twoCol .iconWrap img {
+    margin-top: 10px;
+}
+.twoCol .iconWrap img {
+    margin-top: 10px;
+}
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+.contentIcons li, .contentText li, .recogLogo li {
+    float: left;
+    list-style: none;
+    padding-bottom: 40px;
+}
+.contentIcons li, .contentText li, .recogLogo li {
+    float: left;
+    list-style: none;
+    padding-bottom: 40px;
+}
+p, li, span, a {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+.iconContent {
+    width: calc(100% - 90px);
+    float: left;
+}
+.iconContent {
+    width: calc(100% - 90px);
+    float: left;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.contentIcons li, .contentText li, .recogLogo li {
+    float: left;
+    list-style: none;
+    padding-bottom: 40px;
+}
+.contentIcons li, .contentText li, .recogLogo li {
+    float: left;
+    list-style: none;
+    padding-bottom: 40px;
+}
+p, li, span, a {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+p, li, span, a {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+
+h5, .h5 {
+    font-size: 20px;
+    margin: 0px 0px 15px !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+h5, .h5 {
+    font-size: 20px;
+    margin: 0px 0px 15px !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+h5 {
+    display: block;
+    font-size: 0.83em;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.contentIcons li, .contentText li, .recogLogo li {
+    float: left;
+    list-style: none;
+    padding-bottom: 40px;
+}
+.contentIcons li, .contentText li, .recogLogo li {
+    float: left;
+    list-style: none;
+    padding-bottom: 40px;
+}
+p, li, span, a {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+.iconContent p {
+    margin-bottom: 0px;
+}
+.iconContent p {
+    margin-bottom: 0px;
+}
+p, li, span, a {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+p, li, span, a {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+p {
+    margin-bottom: 1.5em;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+a, .a {
+    text-decoration: none;
+}
+p, li, span, a {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+a, .a {
+    text-decoration: none;
+}

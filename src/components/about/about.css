@@ -1,0 +1,39 @@
+
+h2, #h2{
+    font-size: 30px;
+    font-weight: 600;
+    color: #414042;
+    line-height: 40px;
+
+    font-family: "Montserrat", sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+#alignCenter {
+    text-align: center;
+}
+
+#p{
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 1.5em;
+}
+
+#p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.smallWrap, .small-wrap {
+    max-width: 800px;
+    padding: 0px 20px;
+    margin: 0 auto;
+    text-align: center;
+}

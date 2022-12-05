@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap');
+
+.contact {
+    background-color: rgba(0, 0, 0, 0.906);
+
+  
+}
+
+#contact {
+    margin-top: -50px;
+
+  
+}
+
+
+
+.message {
+    color: white;
+    border: 1px solid rgb(10, 10, 10);
+}
+
+.input:hover{
+    border-color: #d9bbf7;
+}
+
+.info:hover {
+    background-color: #680ac7;
+
+}
+
+#header2 {
+    color: rgba(199, 199, 199, 0.212);
+    font-size: 55px !important;
+    text-align: center;
+}
+
+#pr1{
+    
+    font-size: 25px;
+    font-size: 100;
+    color: #020202;
+    text-align: center;
+
+}
+
+.address{
+    font-family: Quicksand, sans-serif;
+    font-size: 15px;
+    padding: 12%;
+}
+
+#contact1{
+    letter-spacing: .1em;
+    font-size: .75rem;
+    font-family: Quicksand, sans-serif;
+    text-align: left;
+    line-height: 1rem;
+    font-weight: 600;
+    display: block;
+ 
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+
+#p3{
+    margin-top: 0.25rem;
+    font-size: .75rem;
+
+}
+
+#address {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #003a62;
+}
+
+#address:hover{
+    background-color: #1e1e1f17;
+}
+
+#address1{
+  
+    color: #003a62;
+    font-family: Quicksand, sans-serif;
+}
+
+
+
+#address2{
+    color: rgb(0, 0, 0);
+    font-family: Quicksand, sans-serif;
+}
+
+#icon{
+
+    color: #003a62;
+
+}
+
+
+
+@media (max-width: 1000px) {
+
+
+    #address2{
+        font-size: 16px !important;
+        color: rgb(147, 147, 147);
+    }
+
+    #address1{
+        color: #000000c6;
+        font-size: 18px !important;
+        font-weight: 500 !important;
+   
+    }
+
+    #address{
+        width: 100%;
+    }
+}

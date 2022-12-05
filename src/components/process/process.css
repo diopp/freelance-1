@@ -1,0 +1,181 @@
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.singleRow {
+    display: inline-block;
+    width: 100%;
+
+    padding: 30px 0px;
+}
+
+.wrap {
+    margin: 0px auto;
+}
+
+
+.contentRow, .listRow {
+    float: left;
+    width: 100%;
+    padding-top: 40px;
+}
+
+.rowTitle {
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h3, .h3 {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 35px !important;
+    color: #414042;
+}
+
+.threeCol li {
+    width: calc(33% - 20px);
+    margin-right: 30px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+}
+
+.contentIcons li, .contentText li, .recogLogo li {
+    float: left;
+    list-style: none;
+
+}
+
+.contentIcons.threeCol img {
+    max-height: 80px;
+}
+
+.threeIcon {
+    margin-bottom: 15px;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+    text-align: center;
+}
+
+img {
+    border-style: none;
+}
+
+.threeCol li {
+    width: calc(33% - 20px);
+    margin-right: 30px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+}
+
+.contentIcons li, .contentText li, .recogLogo li {
+    float: left;
+    list-style: none;
+    padding-bottom: 40px;
+}
+
+
+
+
+
+p, li, span, a {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+h5, .h5 {
+    font-size: 20px;
+    margin: 0px 0px 15px !important;
+}
+
+p, li, span, a {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 16px;
+    line-height: 28px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+.threeCol h5, .threeCol p {
+    margin: 0px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.threeCol li {
+    width: calc(32% - 20px);
+    margin-right: 35px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    padding: 23px;
+}
+
+.contentIcons, .recogLogo {
+
+    display: flex;
+    -ms-flex-wrap: wrap;
+    /* -webkit-flex-wrap: wrap; */
+    flex-wrap: wrap;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    /* -webkit-justify-content: flex-start; */
+    justify-content: flex-start;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.contentIcons.threeCol img {
+    max-height: 80px;
+}
+
+.threeIcon {
+    margin-bottom: 15px;
+    margin-left: 35%;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+
+img {
+    
+    vertical-align: middle;
+}
+
+@media only screen and (max-width: 696px){
+.threeCol li, .twoCol li, .assocCol li {
+    width: 100%;
+    margin: 0px 0px 30px 0px;
+}
+
+.threeIcon {
+    margin-bottom: 15px;
+    margin-left: 43%;
+}
+
+}
